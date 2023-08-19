@@ -42,5 +42,20 @@ LAB4 - signed and unsigned integers
 
 ![image](https://github.com/kushal2710/pes_asic_class/assets/115935208/ea752c52-caef-4b37-a03c-2759f910fc0f)
 
+DAY2 - INTRODUCTION TO ABI AND BASIC VERIFICATION FLOW
+
+LAB1 - simulating new c program with function call
+
+![image](https://github.com/kushal2710/pes_asic_class/assets/115935208/d7410f44-5ecd-4f5b-93d8-68f9740c8e15)
+
+![image](https://github.com/kushal2710/pes_asic_class/assets/115935208/34badac8-eaba-4d25-b870-5526175dc31e)
+
+TO RUN C PROGRAM ON RISC-V CPU
+
+![image](https://github.com/kushal2710/pes_asic_class/assets/115935208/3897a88c-52a2-4247-8a53-6d76b8360714)
+
+![image](https://github.com/kushal2710/pes_asic_class/assets/115935208/578cd5ed-7ffe-48b4-a320-4e7d82f89970)
+
+![image](https://github.com/kushal2710/pes_asic_class/assets/115935208/fa303720-2a16-438a-991b-2e5a0e42c0c1)
 
 
