@@ -50,7 +50,7 @@ LAB1 - simulating new c program with function call
 
 ![image](https://github.com/kushal2710/pes_asic_class/assets/115935208/34badac8-eaba-4d25-b870-5526175dc31e)
 
-/home/kushal/Pictures/Screenshots/Screenshot from 2023-08-19 18-09-41.png
+![Screenshot from 2023-08-19 18-09-41](https://github.com/kushal2710/pes_asic_class/assets/115935208/b57724d5-8d0f-43ab-a1b4-22e5680cca24)
 
 
 
