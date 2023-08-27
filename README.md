@@ -63,4 +63,52 @@ TO RUN C PROGRAM ON RISC-V CPU
 
 ![image](https://github.com/kushal2710/pes_asic_class/assets/115935208/fa303720-2a16-438a-991b-2e5a0e42c0c1)
 
+INTRODUCTION TO VERILOG RTL DESIGN AND SYNTHESIS
+
+DAY1 - Introduction to open-source simulator iverilog
+
+ RTL design is checked for adherence to the spec by simulating the design
+
+• Simulator is the tool used for simulating the design, iverilog is the tool used 
+
+  Design is the actual Verilog code or set of Verilog codes which has the intended functionality to meet with the required specifications
+
+  TestBench is the setup to apply stimulus (test_vectors) to the design to check its functionality
+
+  ![Screenshot from 2023-08-27 23-27-04](https://github.com/kushal2710/pes_asic_class/assets/115935208/691762b3-69e4-44e3-9ae3-78b6d759ec17)
+
+  ![Screenshot from 2023-08-27 23-28-20](https://github.com/kushal2710/pes_asic_class/assets/115935208/f4d958c6-71ce-49de-9744-e1091210bf5f)
+
+ LABS using iverilog and gtkwave 
+
+ After gitcloning to https://github.com/kunalg123/sky130RTLDesignAndSynthesisworkshop.git
+
+ ![Screenshot from 2023-08-27 18-14-03](https://github.com/kushal2710/pes_asic_class/assets/115935208/82ad467a-c40d-4643-819e-e55a68f5cc0c)
+
+ ![Screenshot from 2023-08-27 23-42-26](https://github.com/kushal2710/pes_asic_class/assets/115935208/9785d898-103d-4801-a970-7a29df3ac2ef)
+
+ After simulating the multiplexer using iverilog 
+
+ ![Screenshot from 2023-08-27 18-17-08](https://github.com/kushal2710/pes_asic_class/assets/115935208/af25ea3b-f138-46d6-9985-0ac92bfe8cfd)
+
+ ![Screenshot from 2023-08-27 18-23-56](https://github.com/kushal2710/pes_asic_class/assets/115935208/440527bc-7b46-4905-8200-8cff5e599246)
+
+ we can see that multiplexer is selecting the output based on the select signal 
+
+ ![Screenshot from 2023-08-27 18-17-08](https://github.com/kushal2710/pes_asic_class/assets/115935208/4fe340ca-6783-402e-b57e-bdc028e60eb2)
+
+ ![Screenshot from 2023-08-27 18-41-54](https://github.com/kushal2710/pes_asic_class/assets/115935208/1f212761-117a-425d-8ed8-34270b8edfd3)
+
+ ![Screenshot from 2023-08-27 23-50-12](https://github.com/kushal2710/pes_asic_class/assets/115935208/21856417-c99e-4ac5-9500-d657f936b785)
+
+ ![Screenshot from 2023-08-27 23-51-20](https://github.com/kushal2710/pes_asic_class/assets/115935208/25799ab3-3571-4ecc-8ae7-82c2117e0490)
+
+ ![Screenshot from 2023-08-27 23-52-47](https://github.com/kushal2710/pes_asic_class/assets/115935208/98dd8dd3-0c1d-4ad9-b63a-09d4f8d46fe5)
+
+ Invoking the yosys
+
+ ![Screenshot from 2023-08-27 23-58-23](https://github.com/kushal2710/pes_asic_class/assets/115935208/2088e3ec-d445-49d1-9e0f-a5a61f07a14d)
+
+
+
 
