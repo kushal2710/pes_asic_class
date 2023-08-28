@@ -109,6 +109,56 @@ DAY1 - Introduction to open-source simulator iverilog
 
  ![Screenshot from 2023-08-27 23-58-23](https://github.com/kushal2710/pes_asic_class/assets/115935208/2088e3ec-d445-49d1-9e0f-a5a61f07a14d)
 
+ ![Screenshot from 2023-08-28 12-11-46](https://github.com/kushal2710/pes_asic_class/assets/115935208/fdf6c8f7-2660-487d-909c-f926c05b4790)
 
+ ![Screenshot from 2023-08-28 12-12-12](https://github.com/kushal2710/pes_asic_class/assets/115935208/32f03763-ab85-4538-b101-fdafc3728f52)
 
+ ![Screenshot from 2023-08-28 22-48-08](https://github.com/kushal2710/pes_asic_class/assets/115935208/764c4055-5319-46ad-a160-c91a48bf19ec)
 
+ ![Screenshot from 2023-08-28 22-45-03](https://github.com/kushal2710/pes_asic_class/assets/115935208/55ba2c03-fd21-4c09-928c-0441e066dd07)
+ 
+ ![Screenshot from 2023-08-28 22-28-56](https://github.com/kushal2710/pes_asic_class/assets/115935208/a82f1432-cacf-487b-aafa-ab008652f075)
+
+ ![Screenshot from 2023-08-28 23-13-18](https://github.com/kushal2710/pes_asic_class/assets/115935208/93886b7e-6e08-4bd1-a144-313d934d3606)
+
+ DAY2 - TIMING LIBS,HIERARCHIAL V/S FLAT SYNTHESIS,EFFICIENT FLOP CODING STYLES
+
+ Introduction to timing.libs
+ 
+ ![Screenshot from 2023-08-28 23-45-49](https://github.com/kushal2710/pes_asic_class/assets/115935208/e4adcf16-06bd-4bd4-b9bd-6f060151bbb1)
+
+ ![Screenshot from 2023-08-28 23-31-32](https://github.com/kushal2710/pes_asic_class/assets/115935208/13b7545f-a296-4f8d-b229-632b09d6e29c)
+
+ ![Screenshot from 2023-08-28 23-44-03](https://github.com/kushal2710/pes_asic_class/assets/115935208/8c253dbc-ea7e-4613-8b0d-2c777c20bcb0)
+
+ Hierarchial v/s flat synthesis
+
+ ![Screenshot from 2023-08-29 00-00-19](https://github.com/kushal2710/pes_asic_class/assets/115935208/9d969171-c754-488b-a964-1e05df741e5e)
+
+ ![Screenshot from 2023-08-29 00-01-28](https://github.com/kushal2710/pes_asic_class/assets/115935208/2c3e729c-770c-4279-9b4d-0f88bf0f9e0f)
+
+ ![Screenshot from 2023-08-29 00-04-00](https://github.com/kushal2710/pes_asic_class/assets/115935208/2d40c6f7-8ac3-4c19-a740-de8e1d67ef69)
+
+ ![Screenshot from 2023-08-29 00-04-47](https://github.com/kushal2710/pes_asic_class/assets/115935208/a32f3aa9-9a06-4fd8-a10f-ddb66863d4ad)
+
+ ![Screenshot from 2023-08-29 00-09-44](https://github.com/kushal2710/pes_asic_class/assets/115935208/4c78af00-0afc-4690-8b06-9e965012cdf2)
+
+ ![Screenshot from 2023-08-29 00-10-48](https://github.com/kushal2710/pes_asic_class/assets/115935208/7cf7a180-a7ee-4d28-9167-b3f9644bcd5d)
+
+ ![Screenshot from 2023-08-29 00-16-13](https://github.com/kushal2710/pes_asic_class/assets/115935208/f256674c-a41e-4407-971d-83b7750cf223)
+
+ ![Screenshot from 2023-08-29 00-17-14](https://github.com/kushal2710/pes_asic_class/assets/115935208/bca052c0-9b91-4038-80b7-2c9240ae25ed)
+
+ ![Screenshot from 2023-08-29 00-22-59](https://github.com/kushal2710/pes_asic_class/assets/115935208/ca90ac8b-b00d-4623-b8ce-0bd661d37f3b)
+
+ ![Screenshot from 2023-08-29 00-23-26](https://github.com/kushal2710/pes_asic_class/assets/115935208/cbbd41e2-a439-458e-b3e3-baec121cd299)
+
+ ![Screenshot from 2023-08-29 00-26-37](https://github.com/kushal2710/pes_asic_class/assets/115935208/329db042-bc9d-44dd-bee9-4ab15ca132c1)
+
+ ![Screenshot from 2023-08-29 00-26-59](https://github.com/kushal2710/pes_asic_class/assets/115935208/d6083a0a-3f49-4039-af16-1ba5876cccfa)
+
+ ![Screenshot from 2023-08-29 00-28-16](https://github.com/kushal2710/pes_asic_class/assets/115935208/d3304955-c020-4af7-af3a-c9be8b4e7127)
+
+ ![Screenshot from 2023-08-29 00-28-42](https://github.com/kushal2710/pes_asic_class/assets/115935208/46aed982-26ec-45b2-9730-81c82881301c)
+
+ 
