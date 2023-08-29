@@ -245,4 +245,24 @@ TO RUN C PROGRAM ON RISC-V CPU
 
  ![Screenshot from 2023-08-29 19-25-31](https://github.com/kushal2710/pes_asic_class/assets/115935208/630182b5-2475-45b8-8653-d1d382ee9501)
 
+ # DAY4 - GLS,Blocking v/s non-blovking and synthesis-simulation mismatch
 
+ ## labs on GLS and synthesis-simulation mismatch
+ 
+ ![Screenshot from 2023-08-29 19-46-32](https://github.com/kushal2710/pes_asic_class/assets/115935208/21345884-b7e1-41e3-82c0-d33ba4470cc2)
+
+ ![Screenshot from 2023-08-29 19-52-28](https://github.com/kushal2710/pes_asic_class/assets/115935208/64c13889-8edd-44e0-9c70-5513495c61e5)
+
+ ![Screenshot from 2023-08-29 19-52-57](https://github.com/kushal2710/pes_asic_class/assets/115935208/ba62799b-4bd3-4054-a14f-d78432d91068)
+
+ ![Screenshot from 2023-08-29 19-56-14](https://github.com/kushal2710/pes_asic_class/assets/115935208/4f62de2a-5796-47fc-aaf3-303dda6d89b7)
+
+ ![Screenshot from 2023-08-29 20-06-15](https://github.com/kushal2710/pes_asic_class/assets/115935208/fe906b47-dfbd-4502-92e0-32e8ad0f64d8)
+
+ ![Screenshot from 2023-08-29 20-11-00](https://github.com/kushal2710/pes_asic_class/assets/115935208/8927a605-67ec-4ec5-a17c-8d5aa5ba907e)
+
+ ![Screenshot from 2023-08-29 20-17-52](https://github.com/kushal2710/pes_asic_class/assets/115935208/d4c63e50-2e0c-4a0e-8f37-52a6e6309706)
+
+ ## labs on synthesis-simulation mismatch for blocking statement
+
+ 
