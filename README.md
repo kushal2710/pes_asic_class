@@ -265,4 +265,9 @@ TO RUN C PROGRAM ON RISC-V CPU
 
  ## labs on synthesis-simulation mismatch for blocking statement
 
- 
+ ![Screenshot from 2023-08-29 20-33-46](https://github.com/kushal2710/pes_asic_class/assets/115935208/502156f8-7cae-4261-9d56-37fef8f1fa58)
+
+ ![Screenshot from 2023-08-29 20-38-14](https://github.com/kushal2710/pes_asic_class/assets/115935208/d2cc3828-01ea-40e3-b02f-bc4a888b2d2e)
+
+ ![Screenshot from 2023-08-29 20-45-08](https://github.com/kushal2710/pes_asic_class/assets/115935208/a02eabfd-4360-4e29-baf9-f17d12064ead)
+
