@@ -1,12 +1,12 @@
-#PES_ASIC_CLASS
+# PES_ASIC_CLASS
 
-DAY 1 - INTRODUCTION TO RISC-V ISA AND GNU COMPILER TOOLCHAIN
+## DAY 1 - INTRODUCTION TO RISC-V ISA AND GNU COMPILER TOOLCHAIN
 
-LAB1 - c program to compute sum 1 to N
+### LAB1 - c program to compute sum 1 to N
 ![image](https://github.com/kushal2710/pes_asic_class/assets/115935208/5773fe42-28bb-4e42-9b0f-832bc90e8abc)
 ![image](https://github.com/kushal2710/pes_asic_class/assets/115935208/21260005-cdf4-4acd-84bc-00ee17a52a17)
 
-LAB2 - RISC-V GCC COMPILE AND DISASSEMBLE
+### LAB2 - RISC-V GCC COMPILE AND DISASSEMBLE
 
 #riscv64-unknown-elf-gcc -O1  -mabi=lp64  march=rv64i  -o sum1ton.o  sum1ton.c 
 
@@ -26,7 +26,7 @@ When you run ls -ltr in a terminal in Ubuntu, you'll see a list of files and dir
 
 ![image](https://github.com/kushal2710/pes_asic_class/assets/115935208/6e2f4e6d-5334-48f1-ab25-8a4b153d4dd7)
 
-Using Ofast - optimisation flag 
+#### Using Ofast - optimisation flag 
 
 ![image](https://github.com/kushal2710/pes_asic_class/assets/115935208/c2730444-1907-4b2a-914c-e7a278cd71cc)
 
@@ -34,17 +34,17 @@ You can use riscv64-unknown-elf-objdump to disassemble machine code into human-r
 
 ![image](https://github.com/kushal2710/pes_asic_class/assets/115935208/50cd1940-0c7e-445f-a673-095294e7f036)
 
-LAB3 - spike simulation and debug
+## LAB3 - spike simulation and debug
 
 ![image](https://github.com/kushal2710/pes_asic_class/assets/115935208/95881567-bef9-4e00-a1df-ca9942e0251d)
 
-LAB4 - signed and unsigned integers
+## LAB4 - signed and unsigned integers
 
 ![image](https://github.com/kushal2710/pes_asic_class/assets/115935208/ea752c52-caef-4b37-a03c-2759f910fc0f)
 
-DAY2 - INTRODUCTION TO ABI AND BASIC VERIFICATION FLOW
+# DAY2 - INTRODUCTION TO ABI AND BASIC VERIFICATION FLOW
 
-LAB1 - simulating new c program with function call
+## LAB1 - simulating new c program with function call
 
 ![image](https://github.com/kushal2710/pes_asic_class/assets/115935208/d7410f44-5ecd-4f5b-93d8-68f9740c8e15)
 
@@ -63,9 +63,9 @@ TO RUN C PROGRAM ON RISC-V CPU
 
 ![image](https://github.com/kushal2710/pes_asic_class/assets/115935208/fa303720-2a16-438a-991b-2e5a0e42c0c1)
 
-INTRODUCTION TO VERILOG RTL DESIGN AND SYNTHESIS
+# INTRODUCTION TO VERILOG RTL DESIGN AND SYNTHESIS
 
-DAY1 - Introduction to open-source simulator iverilog
+## DAY1 - Introduction to open-source simulator iverilog
 
  RTL design is checked for adherence to the spec by simulating the design
 
@@ -79,7 +79,7 @@ DAY1 - Introduction to open-source simulator iverilog
 
   ![Screenshot from 2023-08-27 23-28-20](https://github.com/kushal2710/pes_asic_class/assets/115935208/f4d958c6-71ce-49de-9744-e1091210bf5f)
 
- LABS using iverilog and gtkwave 
+ ## LABS using iverilog and gtkwave 
 
  After gitcloning to https://github.com/kunalg123/sky130RTLDesignAndSynthesisworkshop.git
 
@@ -123,7 +123,7 @@ DAY1 - Introduction to open-source simulator iverilog
 
  # DAY2 - TIMING LIBS,HIERARCHIAL V/S FLAT SYNTHESIS,EFFICIENT FLOP CODING STYLES
 
- Introduction to timing.libs
+ ## Introduction to timing.libs
  
  ![Screenshot from 2023-08-28 23-45-49](https://github.com/kushal2710/pes_asic_class/assets/115935208/e4adcf16-06bd-4bd4-b9bd-6f060151bbb1)
 
@@ -204,3 +204,45 @@ DAY1 - Introduction to open-source simulator iverilog
  ![Screenshot from 2023-08-29 17-53-38](https://github.com/kushal2710/pes_asic_class/assets/115935208/5f45861f-5c64-48ff-aa74-fad749148571)
 
  ![Screenshot from 2023-08-29 17-58-36](https://github.com/kushal2710/pes_asic_class/assets/115935208/c90b985d-1bf5-4833-8350-3aa17a8ad7c5)
+
+ # DAY3 - combinational and sequential optimisations
+
+ ## Combinational optimisations
+
+ ![Screenshot from 2023-08-29 17-58-36](https://github.com/kushal2710/pes_asic_class/assets/115935208/7ad20ddb-ee42-435f-8463-ebd0b7c57b17)
+
+ ![Screenshot from 2023-08-29 18-18-27](https://github.com/kushal2710/pes_asic_class/assets/115935208/0d0fe3f0-d299-479a-a871-25bddb7786a0)
+
+ ![Screenshot from 2023-08-29 18-19-23](https://github.com/kushal2710/pes_asic_class/assets/115935208/402d2175-cb11-471c-acf1-9dc279268902)
+
+ ![Screenshot from 2023-08-29 18-20-20](https://github.com/kushal2710/pes_asic_class/assets/115935208/0a69e7cb-23b1-414d-bdfd-0656a0a8aa2a)
+
+ ![Screenshot from 2023-08-29 18-23-11](https://github.com/kushal2710/pes_asic_class/assets/115935208/1ac35ae7-2256-4db2-93f5-71c006336e3c)
+
+ ![Screenshot from 2023-08-29 18-26-29](https://github.com/kushal2710/pes_asic_class/assets/115935208/7316dc1e-f2ec-46f4-a738-5ac9247e7fac)
+
+ ## sequential logic optimisations
+
+ ![Screenshot from 2023-08-29 18-36-19](https://github.com/kushal2710/pes_asic_class/assets/115935208/9a2286bc-8ed4-417f-8c39-5cafcf475735)
+
+ ![Screenshot from 2023-08-29 18-38-45](https://github.com/kushal2710/pes_asic_class/assets/115935208/0de76eb1-04bf-4b42-92e8-bda4ec265ba9)
+
+ ![Screenshot from 2023-08-29 18-42-14](https://github.com/kushal2710/pes_asic_class/assets/115935208/36ba5cf5-60d8-4532-8b1d-6eb02ed83164)
+
+ ![Screenshot from 2023-08-29 18-43-47](https://github.com/kushal2710/pes_asic_class/assets/115935208/f4ab39da-5330-4a21-91c1-e017a86ae0dd)
+
+ ![Screenshot from 2023-08-29 18-48-38](https://github.com/kushal2710/pes_asic_class/assets/115935208/e2b53155-37c7-4930-88be-886091dd56af)
+
+ ![Screenshot from 2023-08-29 18-53-57](https://github.com/kushal2710/pes_asic_class/assets/115935208/e0ebaf32-86a3-401d-af22-5909818208a7)
+
+ ![Screenshot from 2023-08-29 18-57-29](https://github.com/kushal2710/pes_asic_class/assets/115935208/6d7b607c-699b-4ea4-b001-0fe09e4295a2)
+
+ ## sequential optimisation for unused outputs
+
+ ![Screenshot from 2023-08-29 19-10-02](https://github.com/kushal2710/pes_asic_class/assets/115935208/321f7781-341a-45ce-9d3d-e6c72b2b0c6b)
+
+ ![Screenshot from 2023-08-29 19-13-46](https://github.com/kushal2710/pes_asic_class/assets/115935208/53fe5a09-0494-47ff-8c6e-eb6f6a739e88)
+
+ ![Screenshot from 2023-08-29 19-25-31](https://github.com/kushal2710/pes_asic_class/assets/115935208/630182b5-2475-45b8-8653-d1d382ee9501)
+
+
