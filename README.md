@@ -161,4 +161,19 @@ DAY1 - Introduction to open-source simulator iverilog
 
  ![Screenshot from 2023-08-29 00-28-42](https://github.com/kushal2710/pes_asic_class/assets/115935208/46aed982-26ec-45b2-9730-81c82881301c)
 
- 
+ Various flop coding styles and optimization
+
+ ![Screenshot from 2023-08-29 15-33-56](https://github.com/kushal2710/pes_asic_class/assets/115935208/3e2c4c5a-7199-4493-9a6c-94a38bbc530e)
+
+ ![Screenshot from 2023-08-29 15-38-18](https://github.com/kushal2710/pes_asic_class/assets/115935208/7f5e7b78-f68e-4a45-8ba6-9484a428d42c)
+
+ ![Screenshot from 2023-08-29 15-28-59](https://github.com/kushal2710/pes_asic_class/assets/115935208/176939bb-4df2-46ff-bc40-7d08f1b8427e)
+
+ ![Screenshot from 2023-08-29 15-32-32](https://github.com/kushal2710/pes_asic_class/assets/115935208/b14a61e0-75c9-418f-99c7-e7af8f9b7228)
+
+ ![Screenshot from 2023-08-29 15-49-36](https://github.com/kushal2710/pes_asic_class/assets/115935208/3b948a4c-4f94-4bd8-aaf6-b183bf6d6854)
+
+ ![Screenshot from 2023-08-29 15-54-41](https://github.com/kushal2710/pes_asic_class/assets/115935208/96815590-3893-4c5e-8241-5505fcbab4b7)
+
+ ![Screenshot from 2023-08-29 15-54-51](https://github.com/kushal2710/pes_asic_class/assets/115935208/807b4bc6-c3bb-413f-a1b6-ee300b39161a)
+
