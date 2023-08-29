@@ -177,3 +177,18 @@ DAY1 - Introduction to open-source simulator iverilog
 
  ![Screenshot from 2023-08-29 15-54-51](https://github.com/kushal2710/pes_asic_class/assets/115935208/807b4bc6-c3bb-413f-a1b6-ee300b39161a)
 
+ ![Screenshot from 2023-08-29 17-04-04](https://github.com/kushal2710/pes_asic_class/assets/115935208/ecf723e7-d242-4c58-9cdc-50e8c1fbdb16)
+
+ ![Screenshot from 2023-08-29 17-04-10](https://github.com/kushal2710/pes_asic_class/assets/115935208/6acbf113-1bab-473c-a41d-dbbad7ee2986)
+
+ ![Screenshot from 2023-08-29 17-11-47](https://github.com/kushal2710/pes_asic_class/assets/115935208/710d049d-f5c0-4a5d-b021-d622e7b6d993)
+
+ ![Screenshot from 2023-08-29 17-12-12](https://github.com/kushal2710/pes_asic_class/assets/115935208/8fc63076-82d4-4245-8c1e-15d37b7c8faf)
+
+ ![Screenshot from 2023-08-29 17-19-05](https://github.com/kushal2710/pes_asic_class/assets/115935208/25909262-cc65-46ab-aabc-b3b504baf771)
+
+ ![Screenshot from 2023-08-29 17-22-29](https://github.com/kushal2710/pes_asic_class/assets/115935208/248d1e34-6a0b-4b62-bb75-cbe1a7760abc)
+
+ Interesting optimisations
+
+ 
