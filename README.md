@@ -1,6 +1,7 @@
 # PES_ASIC_CLASS
-
-## DAY 1 - INTRODUCTION TO RISC-V ISA AND GNU COMPILER TOOLCHAIN
+<details>
+<summary>DAY 1 - INTRODUCTION TO RISC-V ISA AND GNU COMPILER TOOLCHAIN</summary>
+<br>
 
 ### LAB1 - c program to compute sum 1 to N
 ![image](https://github.com/kushal2710/pes_asic_class/assets/115935208/5773fe42-28bb-4e42-9b0f-832bc90e8abc)
@@ -41,9 +42,10 @@ You can use riscv64-unknown-elf-objdump to disassemble machine code into human-r
 ## LAB4 - signed and unsigned integers
 
 ![image](https://github.com/kushal2710/pes_asic_class/assets/115935208/ea752c52-caef-4b37-a03c-2759f910fc0f)
-
-# DAY2 - INTRODUCTION TO ABI AND BASIC VERIFICATION FLOW
-
+</details>
+<details>
+<summary> DAY2 - INTRODUCTION TO ABI AND BASIC VERIFICATION FLOW</summary>
+<br>
 ## LAB1 - simulating new c program with function call
 
 ![image](https://github.com/kushal2710/pes_asic_class/assets/115935208/d7410f44-5ecd-4f5b-93d8-68f9740c8e15)
@@ -63,9 +65,13 @@ TO RUN C PROGRAM ON RISC-V CPU
 
 ![image](https://github.com/kushal2710/pes_asic_class/assets/115935208/fa303720-2a16-438a-991b-2e5a0e42c0c1)
 
+</details>
+
 # INTRODUCTION TO VERILOG RTL DESIGN AND SYNTHESIS
 
-## DAY1 - Introduction to open-source simulator iverilog
+<details>
+<summary>DAY1 - Introduction to open-source simulator iverilog</summary>
+<br>
 
  RTL design is checked for adherence to the spec by simulating the design
 
@@ -120,8 +126,10 @@ TO RUN C PROGRAM ON RISC-V CPU
  ![Screenshot from 2023-08-28 22-28-56](https://github.com/kushal2710/pes_asic_class/assets/115935208/a82f1432-cacf-487b-aafa-ab008652f075)
 
  ![Screenshot from 2023-08-28 23-13-18](https://github.com/kushal2710/pes_asic_class/assets/115935208/93886b7e-6e08-4bd1-a144-313d934d3606)
-
- # DAY2 - TIMING LIBS,HIERARCHIAL V/S FLAT SYNTHESIS,EFFICIENT FLOP CODING STYLES
+ </details>
+ <details>
+ <summary>DAY2 - TIMING LIBS,HIERARCHIAL V/S FLAT SYNTHESIS,EFFICIENT FLOP CODING STYLES</summary>
+ <br>
 
  ## Introduction to timing.libs
  
@@ -204,9 +212,10 @@ TO RUN C PROGRAM ON RISC-V CPU
  ![Screenshot from 2023-08-29 17-53-38](https://github.com/kushal2710/pes_asic_class/assets/115935208/5f45861f-5c64-48ff-aa74-fad749148571)
 
  ![Screenshot from 2023-08-29 17-58-36](https://github.com/kushal2710/pes_asic_class/assets/115935208/c90b985d-1bf5-4833-8350-3aa17a8ad7c5)
-
- # DAY3 - combinational and sequential optimisations
-
+ </details>
+ <details>
+ <summary>DAY3 - combinational and sequential optimisations</summary>
+ <br>
  ## Combinational optimisations
 
  ![Screenshot from 2023-08-29 17-58-36](https://github.com/kushal2710/pes_asic_class/assets/115935208/7ad20ddb-ee42-435f-8463-ebd0b7c57b17)
@@ -244,9 +253,10 @@ TO RUN C PROGRAM ON RISC-V CPU
  ![Screenshot from 2023-08-29 19-13-46](https://github.com/kushal2710/pes_asic_class/assets/115935208/53fe5a09-0494-47ff-8c6e-eb6f6a739e88)
 
  ![Screenshot from 2023-08-29 19-25-31](https://github.com/kushal2710/pes_asic_class/assets/115935208/630182b5-2475-45b8-8653-d1d382ee9501)
-
- # DAY4 - GLS,Blocking v/s non-blovking and synthesis-simulation mismatch
-
+ </details>
+ <details>
+ <summary>DAY4 - GLS,Blocking v/s non-blovking and synthesis-simulation mismatch</summary>
+ <br>
  ## labs on GLS and synthesis-simulation mismatch
  
  ![Screenshot from 2023-08-29 19-46-32](https://github.com/kushal2710/pes_asic_class/assets/115935208/21345884-b7e1-41e3-82c0-d33ba4470cc2)
