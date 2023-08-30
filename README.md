@@ -46,7 +46,8 @@ You can use riscv64-unknown-elf-objdump to disassemble machine code into human-r
 <details>
 <summary> DAY2 - INTRODUCTION TO ABI AND BASIC VERIFICATION FLOW</summary>
 <br>
-## LAB1 - simulating new c program with function call
+
+ ## LAB1 - simulating new c program with function call
 
 ![image](https://github.com/kushal2710/pes_asic_class/assets/115935208/d7410f44-5ecd-4f5b-93d8-68f9740c8e15)
 
@@ -216,7 +217,8 @@ TO RUN C PROGRAM ON RISC-V CPU
  <details>
  <summary>DAY3 - combinational and sequential optimisations</summary>
  <br>
- ## Combinational optimisations
+ 
+  ## Combinational optimisations
 
  ![Screenshot from 2023-08-29 17-58-36](https://github.com/kushal2710/pes_asic_class/assets/115935208/7ad20ddb-ee42-435f-8463-ebd0b7c57b17)
 
@@ -257,7 +259,8 @@ TO RUN C PROGRAM ON RISC-V CPU
  <details>
  <summary>DAY4 - GLS,Blocking v/s non-blovking and synthesis-simulation mismatch</summary>
  <br>
- ## labs on GLS and synthesis-simulation mismatch
+ 
+  ## labs on GLS and synthesis-simulation mismatch
  
  ![Screenshot from 2023-08-29 19-46-32](https://github.com/kushal2710/pes_asic_class/assets/115935208/21345884-b7e1-41e3-82c0-d33ba4470cc2)
 
